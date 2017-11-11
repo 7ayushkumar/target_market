@@ -34,8 +34,10 @@ Output variable (desired target):
 
 
 
-#Doings:
+# Doings:
 
 (1) Hyperparameter tuning of models using different criteria,
+
 (2) Comparing and evaluating models using different criteria, and
+
 (3) Web deployment of models.
