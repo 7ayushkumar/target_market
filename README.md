@@ -31,3 +31,11 @@ last contact)
 'success')
 Output variable (desired target):
 17 - y - has the client subscribed to a term deposit? (binary/flag: 'yes', 'no')
+
+
+
+#Doings:
+
+(1) Hyperparameter tuning of models using different criteria,
+(2) Comparing and evaluating models using different criteria, and
+(3) Web deployment of models.
